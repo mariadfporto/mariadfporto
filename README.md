@@ -1,4 +1,4 @@
-### Hi, I'm Maria Eduarda!👋I
+### Hi, I'm Maria Eduarda!👋
 
 ## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> About me
 
