@@ -1,6 +1,6 @@
 ### Hi, I'm Maria Eduarda 👋
 
-- :computer: I'm a Full Stack Web Developer Student :rocket:
+- :computer: I'm a Fullstack Web Developer Student :rocket:
 - :pencil: I'm current learning about Javascript
 - :book: I love reading fantasy books
 - :house_with_garden: I'm currently living in Rio de Janeiro :brazil:
