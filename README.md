@@ -3,7 +3,7 @@
 - :computer: I'm a Fullstack Web Developer Student :rocket:
 - :pencil: I'm current learning about Javascript
 - :book: I love reading fantasy books
-- :house_with_garden: I'm currently living in Campos dos Goytacazes | RJ| :brazil:
+- :house_with_garden: I'm currently living in Campos dos Goytacazes | RJ |
 
 
 
