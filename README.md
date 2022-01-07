@@ -27,12 +27,12 @@ object **MARIA EDUARDA** {
 
 ## **GitHub Estatísticas**
 
-<a href="https://github.com/Gurupreet">
+<a href="https://github.com/mariadfporto">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariadfporto&theme=dracula&hide_langs_below=1" />
 </a>
 
-<a href="https://github.com/Gurupreet">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=mariadfporto&show_icons=true&theme=dracula&line_height=27" alt="**SEU NOME** github stats"/>
+<a href="https://github.com/mariadfporto">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=mariadfporto&show_icons=true&theme=dracula&line_height=27" alt="**Maria Eduarda** github stats"/>
 </a>
 
 [instagram]: https://www.instagram.com/mariadfporto/
