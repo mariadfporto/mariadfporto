@@ -6,7 +6,6 @@
 ```kotlin
 object **MARIA EDUARDA** {
  val name = "MARIA EDUARDA FROTA"
- val studentAt = "RESILIA EDUCAÇÃO"
  val developer = "FULLSTACK"
  
  val primarySkillset = "ALGUMAS HABILIDADES"
